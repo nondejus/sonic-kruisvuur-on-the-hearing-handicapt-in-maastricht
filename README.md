@@ -1,1 +1,20 @@
 # sonic-attacks-on-the-hearng-handicapt-in-maastricht
+
+
+# boeing AH-64 apache
+https://en.wikipedia.org/wiki/Boeing_AH-64_Apache
+
+# general dynamics F-16 fighting falcon
+https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon
+
+# truck 
+https://en.wikipedia.org/wiki/Truck
+
+# air horn
+https://en.wikipedia.org/wiki/Air_horn
+
+# brandweerviertuig
+https://nl.wikipedia.org/wiki/Brandweervoertuig
+
+# church bell
+https://en.wikipedia.org/wiki/Church_bell
